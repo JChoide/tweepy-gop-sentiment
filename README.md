@@ -1,1 +1,1 @@
-# tweepy-gop-sentiment
+# Tweepy GOP Sentiment
